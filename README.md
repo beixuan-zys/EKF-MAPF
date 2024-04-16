@@ -9,5 +9,6 @@
 ![field](https://github.com/beixuan-zys/EKF-MAPF/assets/54428021/fb6c7a67-68e2-43d4-ba51-d24c702525d0)
 
 *surface*
-![surface](https://github.com/beixuan-zys/EKF-MAPF/assets/54428021/8f700aad-4ad5-4d37-930c-b85c7ccadfe1)
+![surface](https://github.com/beixuan-zys/EKF-MAPF/assets/54428021/ed6eea5b-d72d-48c3-9c2f-3325d12ee4d7)
+
 
