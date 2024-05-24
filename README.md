@@ -1,4 +1,4 @@
-# EKF-MAPF
+# MAPF, MAPF-PHD, and MAPF-CPHD
 
 *agent*
 
@@ -10,6 +10,7 @@
 
 *surface*
 
-![surface](https://github.com/beixuan-zys/EKF-MAPF/assets/54428021/ed6eea5b-d72d-48c3-9c2f-3325d12ee4d7)
+![cost](https://github.com/beixuan-zys/MAPF-PHD-and-MAPF-CPHD/assets/54428021/86be7326-7de2-4911-9738-75a9342a7bd4)
+
 
 
