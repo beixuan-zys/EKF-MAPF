@@ -8,7 +8,7 @@
 
 ![field](https://github.com/beixuan-zys/MAPF-PHD-and-MAPF-CPHD/assets/54428021/726a2449-61c9-4f7c-b597-1f9986420545)
 
-*surface*
+*cost*
 
 ![cost](https://github.com/beixuan-zys/MAPF-PHD-and-MAPF-CPHD/assets/54428021/86be7326-7de2-4911-9738-75a9342a7bd4)
 
