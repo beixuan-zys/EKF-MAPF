@@ -1,5 +1,6 @@
 # MAPF and MAPF-(C)PHD
 
+# Scenarion 1
 *agent*
 
 ![agents](https://github.com/beixuan-zys/MAPF-PHD-and-MAPF-CPHD/assets/54428021/48ff9139-eae8-4471-b38e-1f5ad8131225)
@@ -14,7 +15,10 @@
 
 ![cost](https://github.com/beixuan-zys/MAPF-PHD-and-MAPF-CPHD/assets/54428021/60118116-e65d-4447-82cb-7891bcdff8a0)
 
+# Scenarion 2
+*agent*
 
+![agents](https://github.com/beixuan-zys/MAPF-PHD-and-MAPF-CPHD/assets/54428021/95ac220f-15b9-43ff-a7e1-18abf2b5e2ec)
 
 
 
