@@ -2,7 +2,8 @@
 
 *agent*
 
-![agents](https://github.com/beixuan-zys/MAPF-PHD-and-MAPF-CPHD/assets/54428021/d6644de3-e279-4290-b522-4d632285dd4f)
+![agents](https://github.com/beixuan-zys/MAPF-PHD-and-MAPF-CPHD/assets/54428021/48ff9139-eae8-4471-b38e-1f5ad8131225)
+
 
 *field*
 
@@ -11,7 +12,8 @@
 
 *cost*
 
-![cost](https://github.com/beixuan-zys/MAPF-PHD-and-MAPF-CPHD/assets/54428021/86be7326-7de2-4911-9738-75a9342a7bd4)
+![cost](https://github.com/beixuan-zys/MAPF-PHD-and-MAPF-CPHD/assets/54428021/60118116-e65d-4447-82cb-7891bcdff8a0)
+
 
 
 
