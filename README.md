@@ -18,7 +18,8 @@
 # Scenarion 2
 *agent*
 
-![agents](https://github.com/beixuan-zys/MAPF-PHD-and-MAPF-CPHD/assets/54428021/95ac220f-15b9-43ff-a7e1-18abf2b5e2ec)
+![agents](https://github.com/beixuan-zys/MAPF-PHD-and-MAPF-CPHD/assets/54428021/d21f7640-b630-4c26-87f5-3349a94db1f0)
+
 
 
 
