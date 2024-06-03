@@ -1,4 +1,4 @@
-# MAPF, MAPF-PHD, and MAPF-CPHD
+# MAPF and MAPF-(C)PHD
 
 *agent*
 
@@ -6,7 +6,8 @@
 
 *field*
 
-![field](https://github.com/beixuan-zys/MAPF-PHD-and-MAPF-CPHD/assets/54428021/726a2449-61c9-4f7c-b597-1f9986420545)
+![field](https://github.com/beixuan-zys/MAPF-PHD-and-MAPF-CPHD/assets/54428021/b10a938b-0fa2-4e8c-b169-624c98ed4af7)
+
 
 *cost*
 
